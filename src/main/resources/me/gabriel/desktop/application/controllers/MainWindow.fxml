@@ -1,7 +1,9 @@
 <?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
 <?import javafx.scene.layout.VBox?>
+
 <VBox xmlns:fx="http://javafx.com/fxml" spacing="10" alignment="CENTER"
-      fx:controller="me.gabriel.desktop.application.controllers.MainController">
+      fx:controller="me.gabriel.desktop.application.controllers.MainWindow">
 
     <Button fx:id="openDialogButton" text="Open Simple Dialog"/>
 

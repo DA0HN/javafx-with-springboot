@@ -2,7 +2,8 @@
 
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.layout.VBox?>
-<VBox fx:id="dialog" alignment="CENTER" prefHeight="200.0" prefWidth="200.0"
+
+<VBox fx:id="dialog" alignment="CENTER" prefHeight="200.0" prefWidth="200.0" xmlns="http://javafx.com/javafx/8.0.232-ea"
       xmlns:fx="http://javafx.com/fxml/1"
       fx:controller="me.gabriel.desktop.application.controllers.SomeDialog">
 
